@@ -1,0 +1,10 @@
+D:\NML\rampike.ocellar\bin\Debug\netcoreapp3.1\rampike.ocellar.deps.json
+D:\NML\rampike.ocellar\bin\Debug\netcoreapp3.1\rampike.ocellar.dll
+D:\NML\rampike.ocellar\bin\Debug\netcoreapp3.1\rampike.ocellar.pdb
+D:\NML\rampike.ocellar\obj\Debug\netcoreapp3.1\rampike.ocellar.csproj.AssemblyReference.cache
+D:\NML\rampike.ocellar\obj\Debug\netcoreapp3.1\rampike.ocellar.GeneratedMSBuildEditorConfig.editorconfig
+D:\NML\rampike.ocellar\obj\Debug\netcoreapp3.1\rampike.ocellar.AssemblyInfoInputs.cache
+D:\NML\rampike.ocellar\obj\Debug\netcoreapp3.1\rampike.ocellar.AssemblyInfo.cs
+D:\NML\rampike.ocellar\obj\Debug\netcoreapp3.1\rampike.ocellar.csproj.CoreCompileInputs.cache
+D:\NML\rampike.ocellar\obj\Debug\netcoreapp3.1\rampike.ocellar.dll
+D:\NML\rampike.ocellar\obj\Debug\netcoreapp3.1\rampike.ocellar.pdb
